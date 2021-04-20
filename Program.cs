@@ -21,6 +21,7 @@ namespace Common_Operators
               int x = 10;
               x += 4;
               Console.WriteLine(x);
+              Console.ReadLine();
         }
     }     
 }
